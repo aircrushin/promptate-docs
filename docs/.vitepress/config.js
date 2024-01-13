@@ -1,7 +1,7 @@
 export default {
   title: "Promptate",
   description: "更好地编写和优化Prompt",
-
+  base: '/promptate-docs/',
   // 主题相关配置
   themeConfig: {
     logo: "/logo.svg",

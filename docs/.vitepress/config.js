@@ -1,7 +1,8 @@
 export default {
   title: "Promptate",
   description: "更好地编写和优化Prompt",
-  base: '/promptate-docs/',
+  //base: '/promptate-docs/',
+  cleanUrls:true,
   // 主题相关配置
   themeConfig: {
     logo: "/logo.svg",
@@ -11,7 +12,10 @@ export default {
           text: '提示工程简介',
           items: [
             { text: '简介', link: '/introduction/intro' },
-            { text: '基础', link: '/introduction/basics' },
+            { text: '基本概念', link: '/introduction/basics' },
+            { text: '模型设置', link: '/introduction/settings' },
+            { text: '提示词要素', link: '/introduction/elements' },
+            { text: '提示词示例', link: '/introduction/tips' },
           ]
         },
         {

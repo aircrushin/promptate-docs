@@ -1,7 +1,7 @@
 export default {
   title: "Promptate",
   description: "更好地编写和优化Prompt",
-  //base: '/promptate-docs/',
+  base: '/promptate-docs/',
   cleanUrls:true,
   // 主题相关配置
   themeConfig: {

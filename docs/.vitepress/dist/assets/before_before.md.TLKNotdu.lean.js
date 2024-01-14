@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as e,U as r}from"./chunks/framework.isgf4Vyz.js";const f=JSON.parse('{"title":"前言","description":"","frontmatter":{},"headers":[],"relativePath":"before/before.md","filePath":"before/before.md"}'),p={name:"before/before.md"},a=r("",6),s=[a];function n(_,i,l,c,m,P){return e(),o("div",null,s)}const h=t(p,[["render",n]]);export{f as __pageData,h as default};

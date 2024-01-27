@@ -19,10 +19,18 @@ export default {
           ]
         },
         {
-          text: 'Section Title B',
+          text: '工作区',
           items: [
-            { text: 'Item C', link: '/item-c' },
-            { text: 'Item D', link: '/item-d' },
+            { text: '介绍', link: '/workspace/index' },
+            { text: '快速上手', link: '/workspace/startup' },
+          ]
+        },
+        {
+          text: '生成器',
+          items: [
+            { text: '介绍', link: '/generator/index' },
+            { text: 'ChatGPT', link: '/generator/chatgpt' },
+            { text: 'MidJourney', link: '/generator/midjourney' },
           ]
         }
       ]

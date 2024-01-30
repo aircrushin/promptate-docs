@@ -32,7 +32,13 @@ export default {
             { text: 'ChatGPT', link: '/generator/chatgpt' },
             { text: 'MidJourney', link: '/generator/midjourney' },
           ]
-        }
+        },
+        {
+          text: '社区',
+          items: [
+            { text: '介绍', link: '/community/index' }, 
+          ]
+        },
       ]
   },
 };

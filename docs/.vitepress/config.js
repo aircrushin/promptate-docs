@@ -5,7 +5,7 @@ export default {
   cleanUrls:true,
   // 主题相关配置
   themeConfig: {
-    logo: "/logo.svg",
+    // logo: "/logo.png",
     nav: [{ text: "Gitee", link: "https://gitee.com/ultrav/promptate" }],
     sidebar: [
         {

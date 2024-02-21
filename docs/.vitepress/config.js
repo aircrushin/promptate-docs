@@ -23,6 +23,7 @@ export default {
           items: [
             { text: '介绍', link: '/workspace/index' },
             { text: '快速上手', link: '/workspace/startup' },
+            { text: '聊天机器人', link: '/workspace/chatbot' },
           ]
         },
         {

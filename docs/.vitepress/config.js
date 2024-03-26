@@ -24,6 +24,7 @@ export default {
             { text: '介绍', link: '/workspace/index' },
             { text: '快速上手', link: '/workspace/startup' },
             { text: '聊天机器人', link: '/workspace/chatbot' },
+            { text: '优化与翻译', link: '/workspace/optimize' },
           ]
         },
         {
@@ -38,6 +39,8 @@ export default {
           text: '社区',
           items: [
             { text: '介绍', link: '/community/index' }, 
+            { text: '分享提示词', link: '/community/share' }, 
+            { text: '效果测试', link: '/community/test' }, 
           ]
         },
       ]

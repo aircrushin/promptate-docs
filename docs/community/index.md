@@ -14,7 +14,7 @@ Promptate 的社区提供了简洁易用的 AI 指令列表，即使不了解提
 
 `提示词来源包括网络精选、社区分享以及 Awesome ChatGPT Prompts。`
 
-![Alt text](image.png)
+![alt text](image.png)
 
 ## 使用说明
 

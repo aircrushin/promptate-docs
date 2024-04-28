@@ -7,12 +7,14 @@ ChatGPT生成器是根据 GPT 模型，使用一定的数据集进行微调和�
 示例：
 
 用户输入：
-```
+
+```text
 Poet
 ```
 
 生成结果：
-```
+
+```text
 I want you to act as a poet. 
 You will create poems that evoke emotions and have the power to stir people’s soul. 
 Write on any topic or theme but make sure your words convey the feeling you are trying to express in beautiful yet meaningful ways. 

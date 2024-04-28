@@ -1,7 +1,7 @@
 # 提示词分享
 
 Promptate 允许用户分享自己的提示词，由管理员审核后，将展示在提示词库中。
-![share promptate](image-1.png)
+![alt text](image-1.png)
 
 ## 提交提示词
 

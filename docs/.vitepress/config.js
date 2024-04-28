@@ -5,7 +5,7 @@ export default {
   cleanUrls:true,
   // 主题相关配置
   themeConfig: {
-    // logo: "/logo.png",
+    logo: "/logo.png",
     nav: [{ text: "Gitee", link: "https://gitee.com/ultrav/promptate" }],
     sidebar: [
         {
@@ -25,6 +25,7 @@ export default {
             { text: '快速上手', link: '/workspace/startup' },
             { text: '聊天机器人', link: '/workspace/chatbot' },
             { text: '优化与翻译', link: '/workspace/optimize' },
+            { text: '效果测试', link: '/workspace/test' }, 
           ]
         },
         {
@@ -40,7 +41,6 @@ export default {
           items: [
             { text: '介绍', link: '/community/index' }, 
             { text: '分享提示词', link: '/community/share' }, 
-            { text: '效果测试', link: '/community/test' }, 
           ]
         },
       ]

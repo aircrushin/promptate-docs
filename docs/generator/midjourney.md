@@ -7,12 +7,14 @@
 示例：
 
 用户输入：
-```
-Poeta beautiful girl
+
+```text
+a beautiful girl
 ```
 
 生成结果：
-```
+
+```text
 Portray a beautiful girl, whimsically dressed in a vintage gown, in a mystical forest setting. 
 She is reading an ancient book, surrounded by softly glowing fireflies and towering ancient trees, under the ethereal light of a full moon. 
 The style should be a blend of impressionism and fantasy, focusing on her serene expression.
